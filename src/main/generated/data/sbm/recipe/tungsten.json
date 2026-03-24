@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "C": {
+      "tag": "minecraft:coals"
+    },
+    "I": {
+      "item": "sbm:wolframite"
+    },
+    "S": {
+      "item": "minecraft:netherite_scrap"
+    }
+  },
+  "pattern": [
+    "CIC",
+    "ISI",
+    "CIC"
+  ],
+  "result": {
+    "count": 1,
+    "id": "sbm:tungsten"
+  }
+}
